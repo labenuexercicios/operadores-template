@@ -1,3 +1,5 @@
+//CODIGO AQUI
+
 // EXERCICIO 01
 const suaIdade = prompt("Qual a sua idade?")
 const idadeAmigo = prompt("Qual a idade do seu melhor amigo?")
