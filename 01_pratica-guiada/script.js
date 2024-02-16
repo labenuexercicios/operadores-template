@@ -1,6 +1,6 @@
 //CODIGO AQUI
 
-let saldo = 15
+let saldo = 100
 console.log(saldo)
 
 saldo += 22.4
@@ -18,10 +18,10 @@ console.log(saldo)
 saldo %= 3
 console.log(saldo)
 
-let operacao1 = 2*2+2
+let operacao1 = 5*2+2
 console.log(operacao1)
 
-let operacao2 = 2 * (2 + 2)
+let operacao2 = 5 * (2 + 2)
 console.log(operacao2)
 
 const comparacao1 = 5 === 5
@@ -59,5 +59,3 @@ console.log(verificacao2) //false
 
 const verificacao3 = primeiroNumero < segundoNumero
 console.log(verificacao3) //false
-
-
